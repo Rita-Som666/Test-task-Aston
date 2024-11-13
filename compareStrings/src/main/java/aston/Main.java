@@ -1,6 +1,7 @@
 package aston;
 
 import java.util.Scanner;
+
 public class Main {
 
     public static String compare(String a, String b) {
